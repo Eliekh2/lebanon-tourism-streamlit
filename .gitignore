@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.DS_Store
+run_and_shot.py
+srv.log
+run.log
+app_snapshot.png
