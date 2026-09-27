@@ -5,7 +5,7 @@ built on the same dataset as the Plotly assignment: **Tourism-Lebanon-2023** fro
 the AUB PKGCubes portal (1,137 Lebanese towns, with counts of hotels, cafes,
 restaurants and guest houses and a composite Tourism Index).
 
-**Live app:** <PASTE YOUR STREAMLIT APP URL HERE>
+**Live app:** https://lebanon-tourism-app-lhcbezejtvn6z8jc9f5jts.streamlit.app/
 
 ## What it does
 
